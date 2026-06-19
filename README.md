@@ -55,6 +55,7 @@ disk in plaintext.
 
 The only prompts are:
 ```
+  JAVA_HOME (press Enter to use system default): 
   JAR file path : /path/to/app.jar
   Alias name    : alias1
 ```
